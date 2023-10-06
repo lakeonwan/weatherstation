@@ -1,10 +1,10 @@
 <script setup>
 import { RouterView } from 'vue-router'
-import TodoHeader from './components/TodoHeader.vue';
+import WeatherStationHeader from './components/WeatherStationHeader.vue';
 </script>
 
 <template>
-  <TodoHeader/>
+  <WeatherStationHeader />
   <RouterView />
 </template>
 
